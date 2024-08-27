@@ -3,8 +3,8 @@
     "regex": "\\+\\.",
     "replace": "DOMAIN-SUFFIX,"
   },
-  "example-preset": {
-    "regex": "old-text",
-    "replace": "new-text"
+  "another-preset": {
+    "regex": "pattern",
+    "replace": "replacement"
   }
 }
