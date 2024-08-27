@@ -1,0 +1,10 @@
+{
+  "surge-to-clash": {
+    "regex": "\\+\\.",
+    "replace": "DOMAIN-SUFFIX,"
+  },
+  "example-preset": {
+    "regex": "old-text",
+    "replace": "new-text"
+  }
+}
